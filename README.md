@@ -1,3 +1,8 @@
+![readme](https://github.com/user-attachments/assets/cec73341-696c-4f53-a272-51e75d6098c1)
+
+ 
+ 
+ 
  👋 Hi, I’m Raj Tiwari
 
 🎓 I’m a first-year engineering student passionate about coding 
@@ -42,4 +47,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![readme](https://github.com/user-attachments/assets/cec73341-696c-4f53-a272-51e75d6098c1)
