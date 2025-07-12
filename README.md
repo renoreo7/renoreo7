@@ -13,7 +13,8 @@
 - Python (Basics, Logic Building)
 - C++ (DSA started!)
 - HTML, CSS, JavaScript (for web dev)
-- Git & GitHub (version control and collaboration)
+- Git & GitHub (version control and collaboration)  ![ezgif-59a25f04690e93](https://github.com/user-attachments/assets/dd02012c-b13e-482f-97fb-e432a24fe017)
+
 
 ---
 
