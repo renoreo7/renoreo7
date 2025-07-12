@@ -1,7 +1,6 @@
 ![dg3u7hq-c1a76bed-89de-4294-9621-bb4ec5928066](https://github.com/user-attachments/assets/59673958-f42b-46b2-9748-cddd64500f21)
  
-               <h1 align="center">Hi 👋, I'm Raj Tiwari</h1>
-_______________________________________________________________________________________________________                                                  
+               <h1 align="center">Hi 👋, I'm Raj Tiwari</h1>                                                
 
 🎓 I’m a first-year engineering student passionate about coding 
 💻 Currently learning Python, C++, and HTML/CSS/JavaScript(25%)  
