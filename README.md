@@ -1,7 +1,8 @@
 ![dg3u7hq-c1a76bed-89de-4294-9621-bb4ec5928066](https://github.com/user-attachments/assets/59673958-f42b-46b2-9748-cddd64500f21)
  
  
- <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hi , i am Raj Tiwari
+ <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> 
+               <h1 align="center">Hi 👋, I'm Raj Tiwari</h1>
                                                   
 
 🎓 I’m a first-year engineering student passionate about coding 
