@@ -1,5 +1,4 @@
-![readme](https://github.com/user-attachments/assets/cec73341-696c-4f53-a272-51e75d6098c1)
-
+- 🔹 Port![dg3u7hq-c1a76bed-89de-4294-9621-bb4ec5928066](https://github.com/user-attachments/assets/59673958-f42b-46b2-9748-cddd64500f21)
  
  
  
@@ -22,7 +21,8 @@
 
  📌 Projects
 
-- 🔹 Portfolio Website using HTML/CSS/JS
+
+folio Website using HTML/CSS/JS
 - 🔹 Star Pattern Generator in Python
 - 🔹 Beginner Python Games like Snake, Tic Tac Toe, etc.
 
