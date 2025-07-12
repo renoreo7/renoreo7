@@ -2,7 +2,8 @@
  
  
  
- 👋 Hi, I’m Raj Tiwari
+                                                   Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">, I’m Raj Tiwari
+                                                  
 
 🎓 I’m a first-year engineering student passionate about coding 
 💻 Currently learning Python, C++, and HTML/CSS/JavaScript(25%)  
