@@ -1,5 +1,4 @@
-![dg3u7hq-c1a76bed-89de-4294-9621-bb4ec5928066](https://github.com/user-attachments/assets/59673958-f42b-46b2-9748-cddd64500f21)
- 
+![playboi-carti-playboi](https://github.com/user-attachments/assets/ea9f4549-d6fe-4de6-8de2-c02dbddb491b)
                <h1 align="center">Hi 👋, I'm Raj Tiwari</h1>                                                
 
 🎓 I’m a first-year engineering student passionate about coding 
@@ -14,6 +13,7 @@
 - C++ (DSA started!)
 - HTML, CSS, JavaScript (for web dev)
 - Git & GitHub (version control and collaboration)![ezgif-59a25f04690e93](https://github.com/user-attachments/assets/dd02012c-b13e-482f-97fb-e432a24fe017)
+
 
 
 ---
