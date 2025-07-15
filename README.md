@@ -1,4 +1,4 @@
-![223e6792880429 5e569ff84ebef](https://github.com/user-attachments/assets/5654c9ba-5d54-4dac-9b93-568c183826ba)
+  ![223e6792880429 5e569ff84ebef](https://github.com/user-attachments/assets/5654c9ba-5d54-4dac-9b93-568c183826ba)
                <h1 align="center">Hi 👋, I'm Raj Tiwari</h1>                                                
 
 🎓 I’m a first-year engineering student passionate about coding 
