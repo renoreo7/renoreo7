@@ -1,4 +1,4 @@
-              ![playboi-carti-playboi](https://github.com/user-attachments/assets/ea9f4549-d6fe-4de6-8de2-c02dbddb491b)
+  ![playboi-carti-playboi](https://github.com/user-attachments/assets/ea9f4549-d6fe-4de6-8de2-c02dbddb491b)
                <h1 align="center">Hi 👋, I'm Raj Tiwari</h1>                                                
 
 🎓 I’m a first-year engineering student passionate about coding 
