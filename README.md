@@ -8,33 +8,57 @@
 🎯 Preparing for GSoC and learning DSA 
 🏋️‍♂️ Also balancing gym, college, and side projects
 
----
-
- 🚀 Skills I’m Learning
-- Python (Basics, Logic Building)
-- C++ (DSA started!)
-- HTML, CSS, JavaScript (for web dev)
-- Git & GitHub (version control and collaboration)![ezgif-59a25f04690e93](https://github.com/user-attachments/assets/dd02012c-b13e-482f-97fb-e432a24fe017)
-
-
+<p align="center">
+  🚀 A passionate first-year engineering student from India 🇮🇳<br>
+  🧠 Currently learning Python, C++, and Web Development (HTML/CSS/JS)<br>
+  🎯 Focused on cracking <strong>GSoC</strong> & building a strong DSA foundation<br>
+  🏋️ Also balancing gym, college, and side projects like a true multitasker 😄
+</p>
 
 ---
 
- 📌 Projects
+## 🚀 Skills I'm Learning
 
-
-folio Website using HTML/CSS/JS
-- 🔹 Star Pattern Generator in Python
-- 🔹 Beginner Python Games like Snake, Tic Tac Toe, etc.
+- 🐍 Python (Basics, Logic Building)
+- 💻 C++ (DSA started!)
+- 🌐 HTML, CSS, JavaScript (for Web Dev)
+- 🛠️ Git & GitHub (version control)
+- 📂 Linux/Terminal Basics
+- 🧠 Problem Solving & Logic Building
 
 ---
 
- 📫 Connect With Me
+## 📈 GitHub Stats
 
-- 📧 Email: 00rajtiwari00@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=renoreo7&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
+---
 
-<!--
+## 📌 Currently Working On
+
+- ✅ Mastering DSA in Python/C++
+- ✅ Projects using HTML/CSS/JavaScript
+- ✅ Preparing for Open Source programs (like GSoC)
+- ✅ Making cool things on the internet!
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Thank you for visiting my profile ✨</p>
 **renoreo7/renoreo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
