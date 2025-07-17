@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/eff5a564-2b42-47d7-9a34-140db65c3862" alt="Banner" />
 </div>
-          <h1 align="center">Hi 👋, I'm Raj Tiwari</h1>                                                
+          <h1 align="center">Hi 👋, I'm Raj Tiwari!</h1>                                                
 
 🎓 I’m a first-year engineering student passionate about coding 
 💻 Currently learning Python, C++, and HTML/CSS/JavaScript(25%)  
