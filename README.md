@@ -1,5 +1,5 @@
-  ![223e6792880429 5e569ff84ebef](https://github.com/user-attachments/assets/5654c9ba-5d54-4dac-9b93-568c183826ba)
-               <h1 align="center">Hi 👋, I'm Raj Tiwari</h1>                                                
+![asus](https://github.com/user-attachments/assets/eff5a564-2b42-47d7-9a34-140db65c3862)
+          <h1 align="center">Hi 👋, I'm Raj Tiwari</h1>                                                
 
 🎓 I’m a first-year engineering student passionate about coding 
 💻 Currently learning Python, C++, and HTML/CSS/JavaScript(25%)  
