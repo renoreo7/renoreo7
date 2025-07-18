@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/eff5a564-2b42-47d7-9a34-140db65c3862" alt="Banner" />
-</div>
-          <h1 align="center">Hi 👋, I'm Raj Tiwari!</h1>     
+</div>   
 
 <!-- Intro Heading -->
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm <a href="https://www.linkedin.com/in/raj-tiwari-877848340/" target="_blank">Raj Tiwari</a></h1>
