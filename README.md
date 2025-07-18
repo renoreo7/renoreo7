@@ -12,14 +12,9 @@
 
 
 
-🎓 I’m a first-year engineering student passionate about coding 
-💻 Currently learning Python, C++, and HTML/CSS/JavaScript(25%)  
-🎯 Preparing for GSoC and learning DSA 
-🏋️‍♂️ Also balancing gym, college, and side projects
-
 <p align="center">
-  🚀 A passionate first-year engineering student from India 🇮🇳<br>
-  🧠 Currently learning Python, C++, and Web Development (HTML/CSS/JS)<br>
+  🚀 A passionate first-year engineering student from India 🇮🇳 passionate about coding <br>
+  🧠 Currently learning Python, C++, and Web Development (HTML+CSS+JS)<br>
   🎯 Focused on cracking <strong>GSoC</strong> & building a strong DSA foundation<br>
   🏋️ Also balancing college, and side projects like a true multitasker 😄
 </p>
