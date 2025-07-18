@@ -1,7 +1,19 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/eff5a564-2b42-47d7-9a34-140db65c3862" alt="Banner" />
 </div>
-          <h1 align="center">Hi 👋, I'm Raj Tiwari!</h1>                                                
+          <h1 align="center">Hi 👋, I'm Raj Tiwari!</h1>     
+
+<!-- Intro Heading -->
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm <a href="https://www.linkedin.com/in/chaitanya-sai-meka/" target="_blank">Chaitanya Sai Meka</a></h1>
+
+<!-- Typing Animation -->
+<div align="center">
+  <br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=42F9F9&center=true&vCenter=true&width=900&lines=CSE-AI'24+Undergrad;Freelance+Full-Stack+Developer;Product+Builder+%26+Open-Source+Contributor;Future+Founder+%7C+Tech+Entrepreneur" alt="Typing SVG" />
+  
+</div>
+
+
 
 🎓 I’m a first-year engineering student passionate about coding 
 💻 Currently learning Python, C++, and HTML/CSS/JavaScript(25%)  
