@@ -9,8 +9,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=ff1d58&center=true&vCenter=true&width=900&lines=CSE-AI/ML'25+Undergrad;Freelance+,CompetitiveProgrammer;Logic+Builder+%26+Open-Source+Contributor;Future+Founder+%7C+Tech+Entrepreneur" alt="Typing SVG" />
   
 </div>
-
-           ## 🤝 Connect With Me  
+---
+## 🤝 Connect With Me  
 <div align="center">
   <a href="https://x.com/raj_tiwari18" target="_blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60" /></a>
   <a href="https://www.linkedin.com/in/raj-tiwari-877848340/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" /></a>
