@@ -69,17 +69,4 @@
 
 ---
 
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
 <p align="center">✨ Thank you for visiting my profile ✨</p>
