@@ -20,10 +20,9 @@
 
 
 <p align="center">
-  🚀 A passionate first-year engineering student from India 🇮🇳 passionate about coding <br>
-  🧠 Currently learning Python, C++, SQL , and Web Development (HTML+CSS+JS)<br>
+  🚀 Passionate into Competitive programming , Data structures<br>
+  🧠 Currently expirience Python, SQL , and Web Development (HTML+CSS+JS)<br>
   🎯 Focused on cracking <strong>GSoC</strong> & building a strong DSA foundation<br>
-  🏋️ Also college, and side projects like a true multitasker 😄
 </p>
 
 ---
