@@ -21,7 +21,7 @@
 
 <p align="center">
   🚀 Passionate into Competitive programming , Data structures<br>
-  🧠 Currently expirience Python, SQL , and Web Development (HTML+CSS+JS)<br>
+  🧠 Currently experience Python, SQL , and Web Development (HTML+CSS+JS)<br>
   🎯 Focused on cracking <strong>GSoC</strong> & building a strong DSA foundation<br>
 </p>
 
