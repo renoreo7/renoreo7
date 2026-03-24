@@ -29,12 +29,10 @@
 
 ## 🚀 Skills I'm Learning
 
-- 🐍 Python (Basics, Logic Building)
-- 💻 C++ (DSA started!)
-- 🌐 HTML, CSS, JavaScript (for Web Dev)
-- 🛠️ Git & GitHub (version control)
-- 📂 Linux/Terminal Basics
-- 🧠 Problem Solving & Logic Building
+- Python, C++
+- CP, DSA
+- HTML, CSS, JavaScript ,Golang
+- Problem Solving & Logic Building
 
 ---
 
@@ -50,8 +48,6 @@
 
 - ✅ Mastering DSA in Python/C++
 - ✅ Projects using HTML/CSS/JavaScript
-- ✅ Preparing for Open Source programs (like GSoC)
-- ✅ Making cool things on the internet!
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
