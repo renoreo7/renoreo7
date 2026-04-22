@@ -3,7 +3,7 @@
 </div>   
 
 <!-- Intro Heading -->
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm <a href="https://www.linkedin.com/in/raj-tiwari-877848340/" target="_blank">Raj Tiwari</a></h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/raj-tiwari-877848340/" target="_blank">Raj Tiwari</a></h1>
 <!-- Typing Animation -->
 ---
 
